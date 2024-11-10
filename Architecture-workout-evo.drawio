@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
-    <mxGraphModel dx="1114" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1990" dy="930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,10 +28,10 @@
         <mxCell id="xs_JJjtNWvYpOwgAN4Ug-11" value="UserID: int64" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="xs_JJjtNWvYpOwgAN4Ug-9" vertex="1">
           <mxGeometry y="52" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="vdRLPZLHjNs4v8bIl_sf-3" value="Type: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="xs_JJjtNWvYpOwgAN4Ug-9">
+        <mxCell id="vdRLPZLHjNs4v8bIl_sf-3" value="Type: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="xs_JJjtNWvYpOwgAN4Ug-9" vertex="1">
           <mxGeometry y="78" width="140" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="vdRLPZLHjNs4v8bIl_sf-2" value="WorkoutName: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="xs_JJjtNWvYpOwgAN4Ug-9">
+        <mxCell id="vdRLPZLHjNs4v8bIl_sf-2" value="WorkoutName: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="xs_JJjtNWvYpOwgAN4Ug-9" vertex="1">
           <mxGeometry y="100" width="140" height="22" as="geometry" />
         </mxCell>
         <mxCell id="xs_JJjtNWvYpOwgAN4Ug-12" value="Date: time.Time" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="xs_JJjtNWvYpOwgAN4Ug-9" vertex="1">
@@ -158,7 +158,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xs_JJjtNWvYpOwgAN4Ug-62" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.472;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="xs_JJjtNWvYpOwgAN4Ug-2">
+        <mxCell id="xs_JJjtNWvYpOwgAN4Ug-62" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.472;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="xs_JJjtNWvYpOwgAN4Ug-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="760" as="sourcePoint" />
             <mxPoint x="550.12" y="560" as="targetPoint" />
